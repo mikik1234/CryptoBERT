@@ -5,7 +5,7 @@ We used over 3.2 million unique crypto-related posts from StockTwits, Telegram, 
 
 The model was further fine-tuned for the investor's sentiment classification task, on over 2M posts, to predict whether a given post is 'Bullish', 'Bearish' or 'Neutral'. 
 
-CryptoBERT yields state-of-the-art sentiment predictions for our test set of 83257 new, unique StockTwits posts.
+CryptoBERT yields state-of-the-art sentiment predictions on our test set of 83257 new, unique StockTwits posts.
 
 
 For more information on the model, or to right-way retrieve it, please follow the link below to its repo on HuggingFace:
